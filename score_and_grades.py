@@ -17,4 +17,3 @@ def getGrade():
     print "End of the program. Bye! "
 
 getGrade()
-# Looks great, but what happens if I supply a grade below 60 or over 100?  Just something to think about.

@@ -27,6 +27,6 @@ for key, data in users.items():
     number = 0
     for value in data:
         number += 1
-        name = value['first_name']+value['last_name']
-        nameLength = len(name)
+        name = value['first_name']+" "+value['last_name']
+        nameLength = len(value['first_name']+value['last_name'])
         print  str(number)+" - "+name.upper() +" - "+str(nameLength)

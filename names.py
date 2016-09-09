@@ -5,7 +5,7 @@ studentsDictionary = [
      {'first_name' : 'Mark', 'last_name' : 'Guillen'},
      {'first_name' : 'KB', 'last_name' : 'Tonel'}
 ]
-# for students in studentsDictionary: ### I would consider changing idx to something else
+# for students in studentsDictionary: 
 #     print students['first_name'] + " "+students['last_name']
 #
 

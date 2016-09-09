@@ -5,9 +5,9 @@ studentsDictionary = [
      {'first_name' : 'Mark', 'last_name' : 'Guillen'},
      {'first_name' : 'KB', 'last_name' : 'Tonel'}
 ]
-# for students in studentsDictionary: 
-#     print students['first_name'] + " "+students['last_name']
-#
+ for students in studentsDictionary: 
+     print students['first_name'] + " "+students['last_name']
+
 
 #PART 2
 users = {

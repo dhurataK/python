@@ -5,7 +5,7 @@ students = [
      {'first_name' : 'Mark', 'last_name' : 'Guillen'},
      {'first_name' : 'KB', 'last_name' : 'Tonel'}
 ]
-# for idx in students:
+# for idx in students: ### I would consider changing idx to something else
 #     print idx['first_name'] + " "+idx['last_name']
 #
 

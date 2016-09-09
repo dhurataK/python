@@ -1,12 +1,12 @@
 #PART 1
-students = [
+studentsDictionary = [
      {'first_name':  'Michael', 'last_name' : 'Jordan'},
      {'first_name' : 'John', 'last_name' : 'Rosales'},
      {'first_name' : 'Mark', 'last_name' : 'Guillen'},
      {'first_name' : 'KB', 'last_name' : 'Tonel'}
 ]
-# for idx in students: ### I would consider changing idx to something else
-#     print idx['first_name'] + " "+idx['last_name']
+# for students in studentsDictionary: ### I would consider changing idx to something else
+#     print students['first_name'] + " "+students['last_name']
 #
 
 #PART 2
